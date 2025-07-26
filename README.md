@@ -34,7 +34,7 @@ pip install psutil pywin32 pillow
 
 # Run the application
 python procvision.py
-🪄 Pro Tips:
+🕳 Pro Tips:
 Press F5 to refresh process list instantly
 
 Right-click processes for quick actions
@@ -46,8 +46,8 @@ Double-click process for detailed information
 🌟 Why ProcVision?
 "Finally, a process manager that doesn't suck! The search feature alone saved me hours of debugging."
 
-Happy DevOps Engineer
+
 
 📜 License:
 MIT Licensed - Free for personal and commercial use
-Copyright © 2023 Dudley Roscigno
+By Dudley Roscigno
