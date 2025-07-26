@@ -1,10 +1,10 @@
 # 🔥 ProcVision - Ultimate Process Management Suite 🔥
 
-![ProcVision Screenshot 1](screenshot1.png)  
-*Real-time process monitoring with powerful search*
+![ProcVision Main Interface](https://raw.githubusercontent.com/Dudleylua/ProcVision/main/Screenshot1.png)  
+*Real-time process monitoring with powerful search and termination*
 
-![ProcVision Screenshot 2](screenshot2.png)  
-*Detailed system insights and resource tracking*
+![System Information Dashboard](https://raw.githubusercontent.com/Dudleylua/ProcVision/main/Screenshot2.png)  
+*Comprehensive system insights and resource tracking*
 
 ## ⚡ Supercharge Your System Management
 
@@ -27,9 +27,13 @@ import psutil
 import tkinter as ttk
 # System-level integrations
 import win32api, win32con
+🚀 Quick Start:
+bash
+# Install dependencies
+pip install psutil pywin32 pillow
 
-
-
+# Run the application
+python procvision.py
 🪄 Pro Tips:
 Press F5 to refresh process list instantly
 
@@ -37,10 +41,13 @@ Right-click processes for quick actions
 
 Use search filters: name, pid, or user
 
+Double-click process for detailed information
+
 🌟 Why ProcVision?
 "Finally, a process manager that doesn't suck! The search feature alone saved me hours of debugging."
 
+Happy DevOps Engineer
+
 📜 License:
 MIT Licensed - Free for personal and commercial use
-By Dudley Roscigno
-
+Copyright © 2023 Dudley Roscigno
